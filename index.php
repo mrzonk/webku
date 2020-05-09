@@ -1,3 +1,4 @@
 <?php
-echo"Galang Yoga Pratama";
+$kita="bersama";
+echo $kita;
 ?>
